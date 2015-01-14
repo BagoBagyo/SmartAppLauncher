@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart App Launcher</string>
+    <string name="welcome">Welcome to Smart App Launcher</string>
+    <string name="display">Display Smart App Launcher</string>
+    <string name="hide">Hide Smart App Launcher</string>
+    <string name="info">Double tap on Smart App Launcher to hide it</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
